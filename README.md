@@ -1,5 +1,3 @@
 # practice
 
-\*\* 연습
-
-허유진 : https://github.com/uzin02/practice
+** 이곳에 그리드 웹을 올리면 됩니다 **
