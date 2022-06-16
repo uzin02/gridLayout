@@ -1,5 +1,5 @@
 # practice
 
-** 연습
+\*\* 연습
 
-1. git clone 연습
+허유진 : https://github.com/uzin02/practice
