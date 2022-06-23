@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* font-family: 'Shadows Into Light', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+/* pretendard */
+@font-face {
+    font-family: 'pretendard';
+    src: url(../../../common/fonts/PretendardVariable.woff2);
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
